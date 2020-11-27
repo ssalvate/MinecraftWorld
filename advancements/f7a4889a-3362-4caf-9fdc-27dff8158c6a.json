@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-11-26 20:50:08 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-09-13 18:21:48 -0700"
@@ -2330,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-11-26 20:37:16 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2020-11-23 20:52:07 -0800"
@@ -2609,6 +2621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-11-26 20:37:16 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2020-09-25 20:13:08 -0700"
@@ -2726,6 +2744,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-09-13 18:44:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-11-26 20:50:08 -0800"
     },
     "done": true
   },
@@ -3205,6 +3229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-11-26 20:50:08 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honey_block": {
     "criteria": {
       "has_honey_bottle": "2020-10-10 21:16:28 -0700"
@@ -3370,6 +3400,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-09-13 18:32:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2020-11-26 20:37:16 -0800"
     },
     "done": true
   },
@@ -4193,5 +4229,5 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "DataVersion": 2580
 }
