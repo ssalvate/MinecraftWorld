@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-12-10 19:04:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-09-18 20:23:45 -0700"
@@ -889,6 +895,7 @@
       "minecraft:husk": "2020-09-26 16:47:25 -0700",
       "minecraft:ender_dragon": "2020-09-23 21:12:53 -0700",
       "minecraft:shulker": "2020-10-02 19:24:35 -0700",
+      "minecraft:cave_spider": "2020-12-10 21:30:26 -0800",
       "minecraft:piglin": "2020-09-28 22:12:16 -0700",
       "minecraft:enderman": "2020-09-15 18:35:52 -0700",
       "minecraft:silverfish": "2020-09-23 20:51:43 -0700",
@@ -1394,6 +1401,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-09-13 20:37:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2020-12-10 21:09:29 -0800"
     },
     "done": true
   },
